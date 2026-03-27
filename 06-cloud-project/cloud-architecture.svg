@@ -1,0 +1,65 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="640" viewBox="0 0 1200 640">
+  <defs>
+    <style>
+      .title { font: 700 28px 'Segoe UI', Arial, sans-serif; fill: #0b1f33; }
+      .label { font: 600 16px 'Segoe UI', Arial, sans-serif; fill: #0b1f33; }
+      .small { font: 500 13px 'Segoe UI', Arial, sans-serif; fill: #1f3550; }
+      .box { fill: #eef5ff; stroke: #2a5ea8; stroke-width: 2; rx: 14; }
+      .zone { fill: #f8fbff; stroke: #8aa9d6; stroke-width: 2; stroke-dasharray: 8 6; rx: 18; }
+      .arrow { stroke: #2a5ea8; stroke-width: 3; fill: none; marker-end: url(#m); }
+    </style>
+    <marker id="m" markerWidth="12" markerHeight="12" refX="10" refY="6" orient="auto">
+      <path d="M0,0 L12,6 L0,12 z" fill="#2a5ea8" />
+    </marker>
+  </defs>
+
+  <text x="40" y="50" class="title">AWS OpenCart Deployment (High-Level View)</text>
+
+  <rect x="40" y="90" width="1120" height="510" class="zone"/>
+  <text x="60" y="120" class="label">AWS Cloud Environment (VPC)</text>
+
+  <rect x="90" y="190" width="180" height="90" class="box"/>
+  <text x="128" y="230" class="label">End User</text>
+  <text x="116" y="255" class="small">Browser access</text>
+
+  <rect x="240" y="170" width="90" height="60" class="box"/>
+  <text x="258" y="205" class="small">ALB</text>
+
+  <rect x="350" y="170" width="220" height="130" class="box"/>
+  <text x="380" y="215" class="label">EC2 App Tier</text>
+  <text x="378" y="240" class="small">OpenCart + Apache/PHP</text>
+  <text x="376" y="262" class="small">Auto Scaling target group</text>
+
+  <rect x="660" y="170" width="220" height="130" class="box"/>
+  <text x="708" y="215" class="label">RDS Tier</text>
+  <text x="690" y="240" class="small">MySQL/MariaDB backend</text>
+  <text x="697" y="262" class="small">Persistent data store</text>
+
+  <rect x="350" y="370" width="220" height="120" class="box"/>
+  <text x="392" y="415" class="label">CloudWatch</text>
+  <text x="385" y="440" class="small">Metrics and dashboard</text>
+  <text x="392" y="462" class="small">Operational alerts</text>
+
+  <rect x="660" y="370" width="220" height="120" class="box"/>
+  <text x="730" y="415" class="label">S3</text>
+  <text x="676" y="440" class="small">Static asset repository</text>
+  <text x="700" y="462" class="small">Backup-oriented storage</text>
+
+  <path d="M270 235 L330 235" class="arrow"/>
+  <path d="M330 235 L350 235" class="arrow"/>
+  <path d="M570 235 L660 235" class="arrow"/>
+  <path d="M460 300 L460 370" class="arrow"/>
+  <path d="M770 300 L770 370" class="arrow"/>
+  <path d="M570 430 L660 430" class="arrow"/>
+
+  <text x="940" y="210" class="label">Security Focus</text>
+  <text x="940" y="238" class="small">- IAM role and policy scope</text>
+  <text x="940" y="262" class="small">- VPC subnet boundaries</text>
+  <text x="940" y="286" class="small">- WAF and edge protection</text>
+  <text x="940" y="310" class="small">- CloudTrail audit trace</text>
+
+  <text x="940" y="390" class="label">Operations Focus</text>
+  <text x="940" y="418" class="small">- Deployment steps</text>
+  <text x="940" y="442" class="small">- Troubleshooting log</text>
+  <text x="940" y="466" class="small">- Improvement backlog</text>
+</svg>
