@@ -32,7 +32,7 @@ Current file counts in my repository:
 - PKT: 3
 - ZIP: 24
 
-Note: many networking and basic networking submissions are stored in ZIP bundles. These bundles still include full PKT, PKA, PDF, and DOCX evidence from my work.
+
 
 ## 5. Work Process And Results By Area
 
@@ -135,4 +135,3 @@ Observable results in the repository:
 - This repository focuses on practical artifacts with direct evaluation value.
 - I excluded large binary files (for example VM images) to keep the repository lightweight and accessible.
 - For the Wazuh project, please read 99-notes/WAZUH_INCIDENT_NOTE.md before comparing screenshot density between report versions.
->>>>>>> 7b3ddc1 (Initial portfolio structure, standardized artifact names, and README)
