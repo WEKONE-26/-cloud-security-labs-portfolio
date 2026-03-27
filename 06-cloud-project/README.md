@@ -6,6 +6,15 @@ This folder documents my cloud project evidence in a reviewer-friendly format, f
 ## Current Evidence
 - cloud-project-opencart-evidence-bundle.zip
 
+## Quick Evidence Pointers
+Review in this order for fastest understanding:
+1. cloud-architecture.svg for high-level architecture.
+2. Deployment Flow section in this README for implementation sequence.
+3. Security Controls Mapping section in this README for control coverage.
+4. Inside cloud-project-opencart-evidence-bundle.zip:
+	- Cloud-based E-commerce Web.pdf (full cloud implementation report)
+	- Finalreport.md.pdf (summary/final write-up)
+
 ## Architecture
 Architecture diagram:
 - cloud-architecture.svg
@@ -54,8 +63,8 @@ Component summary:
 
 ## Certifications and Learning Path
 - Cloud Foundation badge: https://www.credly.com/badges/7919ecd3-d2a5-47b6-8dfa-52d213b12f06/public_url
-- Additional cloud badge: https://www.credly.com/badges/40832864-910e-4511-ad11-921d0e7c8e94/public_url
 - Current progression: Cloud Engineer implementation focus with Cloud Architect study path toward Cloud Security Engineer responsibilities.
+
 
 ## Next Improvement Backlog
 - Add service-by-service configuration appendix extracted from cloud report.
