@@ -4,20 +4,22 @@
 This folder documents my cloud project evidence in a reviewer-friendly format, focused on Cloud Engineer execution and Cloud Security Engineer progression.
 
 ## Current Evidence
-- cloud-project-opencart-evidence-bundle.zip
+- [cloud-project-opencart-evidence-bundle.zip](cloud-project-opencart-evidence-bundle.zip)
 
 ## Quick Evidence Pointers
 Review in this order for fastest understanding:
-1. cloud-architecture.svg for high-level architecture.
+1. [cloud-architecture.svg](cloud-architecture.svg) for high-level architecture.
 2. Deployment Flow section in this README for implementation sequence.
 3. Security Controls Mapping section in this README for control coverage.
-4. Inside cloud-project-opencart-evidence-bundle.zip:
+4. Inside [cloud-project-opencart-evidence-bundle.zip](cloud-project-opencart-evidence-bundle.zip):
 	- Cloud-based E-commerce Web.pdf (full cloud implementation report)
 	- Finalreport.md.pdf (summary/final write-up)
 
+Reviewer note: you can evaluate the project from markdown and PDFs first. The demo video is optional supporting evidence inside the bundle.
+
 ## Architecture
 Architecture diagram:
-- cloud-architecture.svg
+- [cloud-architecture.svg](cloud-architecture.svg)
 
 Component summary:
 - End User: accesses the application through browser requests.
