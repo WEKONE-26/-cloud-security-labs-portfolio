@@ -1,6 +1,4 @@
-<<<<<<< HEAD
-# cloud-security-labs-portfolio
-=======
+
 # Cloud Security Labs Portfolio
 
 ## 1. Portfolio Objective
