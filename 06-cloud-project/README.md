@@ -5,6 +5,7 @@ This folder documents my cloud project evidence in a reviewer-friendly format, f
 
 ## Current Evidence
 - [cloud-project-opencart-evidence-bundle.zip](cloud-project-opencart-evidence-bundle.zip)
+- [cloud-project-opencart-evidence-bundle/Cloud-project-24560064](cloud-project-opencart-evidence-bundle/Cloud-project-24560064)
 
 ## Quick Evidence Pointers
 Review in this order for fastest understanding:
@@ -14,6 +15,9 @@ Review in this order for fastest understanding:
 4. Inside [cloud-project-opencart-evidence-bundle.zip](cloud-project-opencart-evidence-bundle.zip):
 	- Cloud-based E-commerce Web.pdf (full cloud implementation report)
 	- Finalreport.md.pdf (summary/final write-up)
+5. Direct folder view (no ZIP download):
+	- [cloud-project-opencart-evidence-bundle/Cloud-project-24560064/Cloud-based E-commerce Web.pdf](cloud-project-opencart-evidence-bundle/Cloud-project-24560064/Cloud-based%20E-commerce%20Web.pdf)
+	- [cloud-project-opencart-evidence-bundle/Cloud-project-24560064/Finalreport.md.pdf](cloud-project-opencart-evidence-bundle/Cloud-project-24560064/Finalreport.md.pdf)
 
 Reviewer note: you can evaluate the project from markdown and PDFs first. The demo video is optional supporting evidence inside the bundle.
 

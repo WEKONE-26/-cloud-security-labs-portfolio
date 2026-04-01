@@ -32,12 +32,12 @@ If you only have 5 minutes, review these files first:
 - [04-operating-systems-labs/README.md](04-operating-systems-labs/README.md): Linux operations and system hardening foundations.
 
 ## 5. Folder Summaries
-- [01-networking-packet-tracer/README.md](01-networking-packet-tracer/README.md): Packet Tracer routing, VLAN, NAT, ACL labs and bundled assignment evidence.
+- [01-networking-packet-tracer/README.md](01-networking-packet-tracer/README.md): Packet Tracer routing, VLAN, NAT, ACL labs with both original ZIPs and extracted folders for direct browsing.
 - [02-cybersecurity-activities-labs/README.md](02-cybersecurity-activities-labs/README.md): Security lab reports for sniffing, VPN, OSSEC, firewall, and reverse proxy.
 - [03-wazuh-course-project/README.md](03-wazuh-course-project/README.md): Wazuh architecture and SSH brute-force use case documentation.
 - [04-operating-systems-labs/README.md](04-operating-systems-labs/README.md): Linux and OS operations/security lab reports.
-- [05-basic-networking-labs/README.md](05-basic-networking-labs/README.md): Basic addressing and routing labs with bundled reports.
-- [06-cloud-project/README.md](06-cloud-project/README.md): Cloud project architecture, deployment flow, controls mapping, and troubleshooting.
+- [05-basic-networking-labs/README.md](05-basic-networking-labs/README.md): Basic addressing and routing labs with ZIPs and extracted folder views.
+- [06-cloud-project/README.md](06-cloud-project/README.md): Cloud project architecture, deployment flow, controls mapping, troubleshooting, and extracted report view.
 
 ## 6. Demonstrated Skills
 - I apply a defensive security mindset and SOC-oriented workflow.
@@ -55,6 +55,7 @@ If you only have 5 minutes, review these files first:
 - This repository focuses on practical artifacts with direct evaluation value.
 - I excluded large binary files (for example VM images) to keep the repository lightweight and accessible.
 - For the Wazuh project, please read [99-notes/WAZUH_INCIDENT_NOTE.md](99-notes/WAZUH_INCIDENT_NOTE.md) before comparing screenshot density between report versions.
+- For networking/basic-networking/cloud areas, extracted folders are included so files can be reviewed directly on GitHub.
 
 ## 9. Unpacked Artifact View
 - Assignment ZIP bundles have been extracted into sibling folders so reviewers can browse files directly on GitHub without downloading archives.

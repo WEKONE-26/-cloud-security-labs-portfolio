@@ -14,6 +14,9 @@ This folder contains my operating systems and Linux-focused practical lab report
 - os-lab-4-nagios-monitoring-report.pdf
 - os-labs-final-report.pdf
 
+## Reviewer Navigation
+- Evidence in this folder is directly viewable as PDF reports on GitHub.
+
 ## What I Implemented
 - Linux user and permission management tasks
 - Bash scripting and automation exercises

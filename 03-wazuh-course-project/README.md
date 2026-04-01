@@ -8,6 +8,9 @@ This folder contains my Wazuh project documentation focused on architecture setu
 - wazuh-usecase-5-1-ssh-bruteforce-basic.pdf
 - wazuh-usecase-5-1-ssh-bruteforce-upgraded.pdf
 
+## Reviewer Navigation
+- All core evidence files in this folder are directly viewable PDF documents.
+
 ## What I Implemented
 - Wazuh architecture setup and baseline configuration
 - SSH brute-force detection use case

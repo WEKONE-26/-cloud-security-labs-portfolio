@@ -11,6 +11,9 @@ This folder contains my security lab reports from practical coursework activitie
 - cybersecurity-lab-5-linux-firewall-report.pdf
 - cybersecurity-lab-6-nginx-reverse-proxy-load-balancing-report.pdf
 
+## Reviewer Navigation
+- Evidence in this folder is already directly viewable as PDF files on GitHub.
+
 ## What I Implemented
 - Packet capture and spoofing analysis
 - VPN setup and testing

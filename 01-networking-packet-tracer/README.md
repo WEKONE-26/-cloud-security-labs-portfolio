@@ -10,6 +10,15 @@ This folder contains my Packet Tracer implementation work for routing, switching
 - networking-assignment-*.zip bundles
 - networking-report-lab-*.zip bundles
 
+## Unpacked View for GitHub Review
+- Extracted folders are included for direct browsing without downloading ZIP files.
+- Examples:
+	- networking-assignment-2a-packet-tracer-bundle/
+	- networking-assignment-3d-router-on-a-stick-bundle/
+	- networking-assignment-5a-static-nat-bundle/
+	- networking-report-lab-1-static-routing-bundle/
+- Original ZIP bundles are kept for submission traceability.
+
 ## What I Implemented
 - VLAN and trunking setup
 - Inter-VLAN routing and troubleshooting
